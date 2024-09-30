@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj Thapa</h1>
 <h3 align="center">A Data Aficionado</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
-
-- 🌱 I’m currently learning **ML and AI**
-
-- 💬 Ask me about **ML, Data, Network Fundamentals**
-
-- 📫 How to reach me **hi.surajthapa@gmail.com**
+🔭 Currently focused on projects in **Machine Learning**.
+🌱 Continuously learning and expanding my knowledge in **ML, Data Science and AI**.
+💬 Feel free to ask me about topics related to **Machine Learning, Data Analysis, and Network Fundamentals**.
+📫 You can reach me at: **hi.surajthapa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
