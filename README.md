@@ -2,8 +2,11 @@
 <h3 align="center">A Data Aficionado</h3>
 
 🔭 Currently focused on projects in **Machine Learning**.
+
 🌱 Continuously learning and expanding my knowledge in **ML, Data Science and AI**.
+
 💬 Feel free to ask me about topics related to **Machine Learning, Data Analysis, and Network Fundamentals**.
+
 📫 You can reach me at: **hi.surajthapa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
